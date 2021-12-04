@@ -1,0 +1,79 @@
+.image-promo {
+    margin-top: 84px;
+    position: absolute;
+    width: 411px;
+    left: 0px;
+}
+
+.rect-purple {
+    width: 411px;
+    height: 30px;
+    background-color: #4E2E8A;
+    position: absolute;
+    margin-top: 369px;
+    left: 0px;
+}
+
+.discount-detail {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.keterangan {
+    margin-top: 424px;
+    margin-left: 16px;
+}
+
+.title-promo {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 12px;
+}
+
+.kode-promo {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    color: #F05E86;
+    margin-bottom: 26px;
+}
+
+.syarat {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 12px;
+}
+
+.isi-syarat {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 6px;
+}
+
+.promo-berubah {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+    color: #000000;
+}
